@@ -6,7 +6,7 @@
   
   # Description 
 
-  A digital version of the classic X & O Game
+  A digital version of the classic X & O Game.
 
   Table of Contents |
   ----------------- |
