@@ -18,10 +18,10 @@
   
 
   # Installation 
-  N/A
+  https://tic-tac-toe-1e88c.web.app/
 
   # Usage 
-  URL
+  https://tic-tac-toe-1e88c.web.app/
 
   # User Story
   As a user living in the digital age, I WANT an application which allows me to play a nostalgic childhood game
